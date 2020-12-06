@@ -1,0 +1,283 @@
+# depslib dependency file v1.0
+1514819171 source:d:\level3\level3\main.cpp
+	"getinput.hpp"
+	"setinitial.hpp"
+	"spelloutput.hpp"
+	"move.hpp"
+	<cstdlib>
+	<ctime>
+
+1513437839 source:d:\level3\level3\getinput.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"getinput.hpp"
+
+1514305313 d:\level3\level3\getinput.hpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+
+1513131341 d:\level3\level3\setinitial.hpp
+
+1514468116 source:d:\level3\level3\setinitial.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"setinitial.hpp"
+	"getinput.hpp"
+
+1514818226 d:\level3\level3\spelloutput.hpp
+	<string>
+
+1514818294 source:d:\level3\level3\spelloutput.cpp
+	<cstdlib>
+	<ctime>
+	<string>
+
+1513612797 source:d:\level3\level3\level3-main.cpp
+	"level3-main.hpp"
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"getinput.hpp"
+	"setinitial.hpp"
+	"spelloutput.hpp"
+
+1513612570 d:\level3\level3\level3-main.hpp
+
+1514647507 d:\level3\level3\move.hpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"getinput.hpp"
+
+1514647762 source:d:\level3\level3\move.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	<cstdlib>
+	<cmath>
+	"move.hpp"
+	"getinput.hpp"
+
+1513437839 source:c:\users\user\desktop\level3\getinput.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"getinput.hpp"
+
+1514305313 c:\users\user\desktop\level3\getinput.hpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+
+1514862748 source:c:\users\user\desktop\level3\main.cpp
+	"getinput.hpp"
+	"setinitial.hpp"
+	"spelloutput.hpp"
+	"move.hpp"
+	<cstdlib>
+	<ctime>
+
+1513131341 c:\users\user\desktop\level3\setinitial.hpp
+
+1514818226 c:\users\user\desktop\level3\spelloutput.hpp
+	<string>
+
+1514647507 c:\users\user\desktop\level3\move.hpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"getinput.hpp"
+
+1514647762 source:c:\users\user\desktop\level3\move.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	<cstdlib>
+	<cmath>
+	"move.hpp"
+	"getinput.hpp"
+
+1514468116 source:c:\users\user\desktop\level3\setinitial.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"setinitial.hpp"
+	"getinput.hpp"
+
+1514819214 source:c:\users\user\desktop\level3\spelloutput.cpp
+	<cstdlib>
+	<ctime>
+	<string>
+
+1515255795 source:c:\users\asus\desktop\level3\getinput.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"getinput.hpp"
+
+1515255795 c:\users\asus\desktop\level3\getinput.hpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+
+1515299684 source:c:\users\asus\desktop\level3\main.cpp
+	"getinput.hpp"
+	"setinitial.hpp"
+	"spelloutput.hpp"
+	"move.hpp"
+	<cstdlib>
+	<ctime>
+	<SDL_mixer.h>
+
+1513131341 c:\users\asus\desktop\level3\setinitial.hpp
+
+1514818226 c:\users\asus\desktop\level3\spelloutput.hpp
+	<string>
+
+1515222565 c:\users\asus\desktop\level3\move.hpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"getinput.hpp"
+
+1515298928 source:c:\users\asus\desktop\level3\move.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	<cstdlib>
+	<cmath>
+	"move.hpp"
+	"getinput.hpp"
+
+1515298196 source:c:\users\asus\desktop\level3\setinitial.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	<SDL_mixer.h>
+	"setinitial.hpp"
+	"getinput.hpp"
+
+1515255795 source:c:\users\asus\desktop\level3\spelloutput.cpp
+	<cstdlib>
+	<ctime>
+	<string>
+
+1515255795 source:c:\users\asus\desktop\目錄\完整版\getinput.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"getinput.hpp"
+
+1515255795 c:\users\asus\desktop\目錄\完整版\getinput.hpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+
+1515300988 source:c:\users\asus\desktop\目錄\完整版\main.cpp
+	"getinput.hpp"
+	"setinitial.hpp"
+	"spelloutput.hpp"
+	"move.hpp"
+	<cstdlib>
+	<ctime>
+	<SDL_mixer.h>
+
+1513131341 c:\users\asus\desktop\目錄\完整版\setinitial.hpp
+
+1514818226 c:\users\asus\desktop\目錄\完整版\spelloutput.hpp
+	<string>
+
+1515222565 c:\users\asus\desktop\目錄\完整版\move.hpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"getinput.hpp"
+
+1515298928 source:c:\users\asus\desktop\目錄\完整版\move.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	<cstdlib>
+	<cmath>
+	"move.hpp"
+	"getinput.hpp"
+
+1515298196 source:c:\users\asus\desktop\目錄\完整版\setinitial.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	<SDL_mixer.h>
+	"setinitial.hpp"
+	"getinput.hpp"
+
+1515255795 source:c:\users\asus\desktop\目錄\完整版\spelloutput.cpp
+	<cstdlib>
+	<ctime>
+	<string>
+
